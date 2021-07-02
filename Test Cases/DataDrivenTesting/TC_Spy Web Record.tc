@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Spy Web Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad9a60d5-46bc-43fe-9cdb-26a198d4371e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d36867fb-eb1f-46ad-ac57-44c3fdbdc1ea</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d59949f0-3b7c-4a0b-942f-e424809daabf</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
