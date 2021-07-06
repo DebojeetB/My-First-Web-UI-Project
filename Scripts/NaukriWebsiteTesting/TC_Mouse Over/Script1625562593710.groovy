@@ -71,7 +71,7 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/Naukri_Mouse Over/Page_Jobs - Recruitment - Job Search - Empl_eadd87/a_Employer Login'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 
