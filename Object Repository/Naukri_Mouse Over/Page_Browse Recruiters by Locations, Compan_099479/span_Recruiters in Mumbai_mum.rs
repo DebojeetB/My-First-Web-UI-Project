@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recruiters in Mumbai_mum</name>
+   <tag></tag>
+   <elementGuidId>635cf77a-fe14-4e81-b98b-2298869bd862</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mum</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mum</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;browseAllPage rpHpage&quot;]/div[@class=&quot;mainSec&quot;]/div[@class=&quot;lmrWrap wrap&quot;]/div[@class=&quot;browseLoc section_white_title&quot;]/ul[@class=&quot;hoz&quot;]/li[1]/a[1]/span[@class=&quot;mum&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li/a/span</value>
+   </webElementXpaths>
+</WebElementEntity>
